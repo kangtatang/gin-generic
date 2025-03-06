@@ -42,7 +42,7 @@ To install and run this project, follow these steps:
     ```
 
 ## Usage
-After running the application, you can access it at `http://localhost:8080`. You can customize the routes and handlers in the [main.go](http://_vscodecontentref_/1) file.
+After running the application, you can access it at `http://localhost:8085`.(your port may be diferent as set up in main.go) You can customize the routes and handlers in the [main.go](http://_vscodecontentref_/1) file.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
